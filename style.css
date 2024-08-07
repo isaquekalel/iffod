@@ -1,0 +1,134 @@
+.btn-menu { 
+    background-color:#Eb5757;
+    color:#ffff;
+    border:none;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.menu-spe{
+    position: relative;
+    margin-left:280px;
+
+}
+
+.img-banner{
+    background-image:url("./assents/banner.png");
+    height:580px;
+    width:580px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.red {
+  color: #Eb5757;
+}
+
+.imagem {
+    margin-right: 17px;
+    margin-top: 4px;
+}
+.alinhamento{
+    margin-top: 10px;
+}
+
+.texto-principal {
+    margin-top: 30px;
+    text-align: left;
+    font-size: 80px;
+    padding-top: 50px;
+    font-family: "rubik", sans-serif;
+}
+
+
+.black {
+    color: black;
+}
+.texto {
+    text-align:left;
+    color: black;
+}
+
+.botton {
+    background-color: #Eb5757;
+    border: none;
+    border-radius: 50px;
+    width: 120px;
+    height: 50px;
+    color: white;
+}
+
+.video {
+    border-radius: 100px;
+    border: none;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(235, 234, 234);
+    margin-left: 30px;
+ 
+}
+
+.play {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.img1 {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 100%;
+    background-color: yellow;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    border: white 10px 10px;
+
+    margin-left: -10px;
+    object-fit: contain;
+    border-radius: 100%;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.img3 {
+    width: 50px;
+    height: 50px;
+    margin-left: -10px;
+    object-fit: contain;
+    border-radius: 100%;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.red2 {
+    color: #Eb5757;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo2 {
+    font-family:"rubik", sans-serif ;
+
+}
+
+.titulo2, .red2 {
+margin-top: 50px;
+margin-bottom: 40px;
+}
+
+.centralizar {
+text-align: center;
+}
+
+.container {
+    justify-content:space-around;
+    align-items: center;
+    
+}
